@@ -3,7 +3,7 @@
 ```mermaid
 graph TD;
     box1([Start Here]);
-    box2([Wired Automation Starting at Day 0]);
+    box2[Wired Automation Starting at Day 0];
     box3([Wireless Automation]);
     box4([Something Else]);
     box5([Advanced Automation]);
