@@ -10,7 +10,7 @@ graph TD;
     box6([Something Independent]);
     box7[(collection of stuff)];
     box1-->box2 & box3 & box4;
-    box2 & box3 --> box5;
+    box2 & box3--box5;
     box6-->box7;
     click box2 "https://github.com/kebaldwi/DNAC-TEMPLATES/tree/master/LABS/LAB-1-Wired-Automation" "wired";
     click box3 "https://github.com/kebaldwi/DNAC-TEMPLATES/tree/master/LABS/LAB-2-Wireless-Automation" "wireless";
