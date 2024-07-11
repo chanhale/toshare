@@ -11,7 +11,7 @@ graph TD;
     box7[(collection of stuff)]
     box1-->box2 & box3 & box4;
     box2 & box3 -- box5;
-    box6-.-box7;
+    box6-.->box7;
     click box2 "https://github.com/kebaldwi/DNAC-TEMPLATES/tree/master/LABS/LAB-1-Wired-Automation" "wired";
     click box3 "https://github.com/kebaldwi/DNAC-TEMPLATES/tree/master/LABS/LAB-2-Wireless-Automation" "wireless";
     click box5 "https://github.com/kebaldwi/DNAC-TEMPLATES/tree/master/LABS/LAB-3-Advanced-Automation" "advanced";
