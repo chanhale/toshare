@@ -8,7 +8,7 @@ graph TD;
     box4([Something Else]);
     box5([Advanced Automation]);
     box6([Something Independent])
-    box7([Another Thing])
+    box7[(collection of stuff)]
     box1-->box2 & box3 & box4;
     box2 & box3 -->box5;
     box6-->box7;
