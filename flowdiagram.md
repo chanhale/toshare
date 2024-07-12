@@ -8,7 +8,7 @@ graph TD;
     box4([Something Else]);
     box5([Advanced Automation]);
     box6([Something Independent]);
-    box7[("`%20
+    box7[("`_
      collection of stuff
     _`")];
     box1-->box2 & box3 & box4;
